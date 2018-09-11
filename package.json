@@ -1,0 +1,21 @@
+{
+  "name": "bucketlist",
+  "version": "1.0.0",
+  "description": "A project to have a checklist of items I need to do today",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/manibhushan/bucketlist"
+  },
+  "keywords": [
+    "bucketlist"
+  ],
+  "author": "Mani Bhushan",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
